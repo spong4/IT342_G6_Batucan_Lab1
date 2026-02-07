@@ -1,8 +1,8 @@
 # IT342 - User Registration & Authentication System (Lab 1)
 
-**Developer:** [Your Name]
+**Developer:** Zly Hanson A. Batucan
 **Group:** G6
-**Course:** IT342 - Web Frameworks
+**Course:** IT342
 
 ## Project Overview
 This project is a Full-Stack User Management System. It features a **Spring Boot 3+** backend, a **ReactJS** frontend, and a **MySQL (XAMPP)** database. The system allows users to register, log in using JWT (JSON Web Tokens), and view a protected Dashboard.
