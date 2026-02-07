@@ -17,4 +17,4 @@
 
 ## [TODO]
 - [ ] Final Git Push to Repository
-- [ ] Submit Repository Link on Canvas
+- [ ] Submit Repository Link on Teams
