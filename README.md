@@ -1,7 +1,7 @@
 # IT342 - User Registration & Authentication System (Lab 1)
 
 **Developer:** Zly Hanson A. Batucan
-**Group:** G6
+**Section:** G6
 **Course:** IT342
 
 ## Project Overview
