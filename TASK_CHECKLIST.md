@@ -10,6 +10,7 @@
 - [x] Setup React Routing and API Interceptor
 - [x] Implement Register and Login Pages in React
 - [x] Implement Protected Dashboard with Logout
+- [x] Submit Repository Link on Teams
 
 ## [IN PROGRESS]
 - [ ] Final Testing and Bug Fixing
@@ -17,4 +18,3 @@
 
 ## [TODO]
 - [ ] Final Git Push to Repository
-- [ ] Submit Repository Link on Teams
