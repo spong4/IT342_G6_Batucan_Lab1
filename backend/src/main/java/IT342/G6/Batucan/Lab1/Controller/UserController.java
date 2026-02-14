@@ -24,7 +24,7 @@ public class UserController {
             String jwt = token.substring(7);
             if (tokenProvider.validateToken(jwt)) {
                 String email = tokenProvider.getEmailFromToken(jwt);
-                return ResponseEntity.ok(userRepository.findByEmail(email));
+                return ResponseEntity.ok(userRepository.findByEmail(email).orElse(null));
             }
         }
         return ResponseEntity.status(401).body("Unauthorized access");
